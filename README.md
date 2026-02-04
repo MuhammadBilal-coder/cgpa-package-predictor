@@ -32,7 +32,7 @@ A **simple ML-powered web app** that predicts expected job package based on your
 
 ### 🎯 Training Data & Prediction Line
 
-![Model Graph](images/graph.png)
+<img src="images/graph.png" alt="Model Graph" width="500">
 
 *Blue dots = Original training data | Red line = Model predictions*
 
